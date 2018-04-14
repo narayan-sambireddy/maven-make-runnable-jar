@@ -1,13 +1,12 @@
 package maven.narayan.makejar;
 
 /**
- * Hello world!
- *
+ * @author narayan-sambireddy
  */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+public interface App {
+
+    static void main( String[] args ) {
+        System.out.println("Hello World!!");
     }
-}
+
+ }
